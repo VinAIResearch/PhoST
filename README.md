@@ -1,7 +1,7 @@
 # A High-Quality and Large-Scale Dataset for English-Vietnamese Speech Translation
 
 
-PhoST is a high-quality and large-scale English-Vietnamese speech translation dataset with 508 audio hours, consisting of 331K triplets of (sentence lengthed audio, English source transcript sentence, and Vietnamese target subtitle sentence). Details of the dataset construction and experimental results can be found in our [INTERSPEECH 2022 paper](...):
+PhoST is a high-quality and large-scale English-Vietnamese speech translation dataset with 508 audio hours, consisting of 331K triplets of (sentence lengthed audio, English source transcript sentence, and Vietnamese target subtitle sentence). Details of the dataset construction and experimental results can be found in our [INTERSPEECH 2022 paper](https://arxiv.org/pdf/2208.04243.pdf):
 
 	@inproceedings{PhoST,
     title     = {{A High-Quality and Large-Scale Dataset for English-Vietnamese Speech Translation}},
