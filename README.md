@@ -15,7 +15,7 @@ Please follow this [**LINK**](https://docs.google.com/forms/d/e/1FAIpQLSeKXJMnfH
 -   to not distribute the dataset or part of the dataset in any original or modified form.
 -   and to cite our INTERSPEECH 2022 paper "A High-Quality and Large-Scale Dataset for English-Vietnamese Speech Translation" whenever the dataset is used to help produce published results.
 
-#### Copyright (c) 2022 VinAI Research
+#### Copyright (c) 2022 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
