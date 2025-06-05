@@ -10,7 +10,7 @@ PhoST is a high-quality and large-scale English-Vietnamese speech translation da
     year      = {2022}
     }
     
-Please follow this [**LINK**](https://docs.google.com/forms/d/e/1FAIpQLSeKXJMnfHEH_JuVvMntN2QgTtpe7vTv0Np5RBMk01IuxfGxgw/viewform?fbclid=IwAR2lkxxHFEhY9a6INwqABzwstz-W7enH0LaFnGRymitowADMJ0nEbMLA6l4) to download the PhoST dataset. By downloading this dataset, USER agrees:
+Please follow this [**LINK**](https://huggingface.co/datasets/vinai/PhoST) to download the PhoST dataset. By downloading this dataset, USER agrees:
 -   to use the dataset for research or educational purposes only.
 -   to not distribute the dataset or part of the dataset in any original or modified form.
 -   and to cite our INTERSPEECH 2022 paper "A High-Quality and Large-Scale Dataset for English-Vietnamese Speech Translation" whenever the dataset is used to help produce published results.
